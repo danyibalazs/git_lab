@@ -1,4 +1,4 @@
 const helloWorld = (name = "World") => {
-  // other things
+  // things
   return `Hello ${name}!`;
 }
